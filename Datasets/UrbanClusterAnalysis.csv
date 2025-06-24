@@ -1,0 +1,73 @@
+,model,Parameters,No_of_clusters,silhouette_score
+0,KMeans,nclusters = 2,2,0.8823058100901079
+1,KMeans,nclusters = 3,3,0.8102813488807397
+2,KMeans,nclusters = 4,4,0.6936580083838783
+3,KMeans,nclusters = 5,5,0.7534800312350538
+4,KMeans,nclusters = 6,6,0.7713514699965525
+5,KMeans,nclusters = 7,7,0.5852945816983928
+6,DBSCAN,min_samples = 2 | eps = 0.2,88,0.29828141268814373
+7,DBSCAN,min_samples = 2 | eps = 0.4,54,0.5459883869786875
+8,DBSCAN,min_samples = 2 | eps = 0.6,38,0.6201924488239432
+9,DBSCAN,min_samples = 2 | eps = 0.8,25,0.6211508232880742
+10,DBSCAN,min_samples = 2 | eps = 1.0,21,0.6108055498018761
+11,DBSCAN,min_samples = 2 | eps = 1.2,15,0.7909556722031296
+12,DBSCAN,min_samples = 2 | eps = 1.4,13,0.787359302505581
+13,DBSCAN,min_samples = 2 | eps = 1.6,13,0.7891659458336875
+14,DBSCAN,min_samples = 2 | eps = 1.8,11,0.8166315686921047
+15,DBSCAN,min_samples = 2 | eps = 2.0,13,0.8021642524736944
+16,DBSCAN,min_samples = 2 | eps = 2.2,13,0.8039388945702679
+17,DBSCAN,min_samples = 2 | eps = 2.4,11,0.8478423936154846
+18,DBSCAN,min_samples = 2 | eps = 2.6,12,0.8493108719520023
+19,DBSCAN,min_samples = 2 | eps = 2.8,10,0.8476917670358946
+20,DBSCAN,min_samples = 2 | eps = 3.0,8,0.8650727626357358
+21,DBSCAN,min_samples = 3 | eps = 0.2,30,0.29718379942923334
+22,DBSCAN,min_samples = 3 | eps = 0.4,13,0.5789051885784221
+23,DBSCAN,min_samples = 3 | eps = 0.6,13,0.6973159141010201
+24,DBSCAN,min_samples = 3 | eps = 0.8,7,0.6948408920825677
+25,DBSCAN,min_samples = 3 | eps = 1.0,4,0.7475883638165068
+26,DBSCAN,min_samples = 3 | eps = 1.2,4,0.8210255226718339
+27,DBSCAN,min_samples = 3 | eps = 1.4,5,0.8243987716990616
+28,DBSCAN,min_samples = 3 | eps = 1.6,3,0.8757890297958109
+29,DBSCAN,min_samples = 3 | eps = 1.8,4,0.8758185557954674
+30,DBSCAN,min_samples = 3 | eps = 2.0,5,0.8742747156690351
+31,DBSCAN,min_samples = 3 | eps = 2.2,5,0.8739988726075422
+32,DBSCAN,min_samples = 3 | eps = 2.4,4,0.8885937527041884
+33,DBSCAN,min_samples = 3 | eps = 2.6,6,0.8669305585303334
+34,DBSCAN,min_samples = 3 | eps = 2.8,5,0.8660529236903387
+35,DBSCAN,min_samples = 3 | eps = 3.0,4,0.8883749662019267
+36,DBSCAN,min_samples = 4 | eps = 0.2,19,0.26202542160055586
+37,DBSCAN,min_samples = 4 | eps = 0.4,10,0.5784266361811067
+38,DBSCAN,min_samples = 4 | eps = 0.6,12,0.6981741181882424
+39,DBSCAN,min_samples = 4 | eps = 0.8,9,0.673102592241619
+40,DBSCAN,min_samples = 4 | eps = 1.0,2,0.8825448691186918
+41,DBSCAN,min_samples = 4 | eps = 1.2,2,0.8937856698309083
+42,DBSCAN,min_samples = 4 | eps = 1.4,3,0.8758112044643152
+43,DBSCAN,min_samples = 4 | eps = 1.6,5,0.8411082130181585
+44,DBSCAN,min_samples = 4 | eps = 1.8,5,0.867815368213223
+45,DBSCAN,min_samples = 4 | eps = 2.0,4,0.875654411408798
+46,DBSCAN,min_samples = 4 | eps = 2.2,4,0.8754088310769108
+47,DBSCAN,min_samples = 4 | eps = 2.4,3,0.9139666724075902
+48,DBSCAN,min_samples = 4 | eps = 2.6,3,0.9147953368435519
+49,DBSCAN,min_samples = 4 | eps = 2.8,5,0.8664742640797474
+50,DBSCAN,min_samples = 4 | eps = 3.0,4,0.8885496207732643
+51,DBSCAN,min_samples = 5 | eps = 0.2,9,0.32621767699981863
+52,DBSCAN,min_samples = 5 | eps = 0.4,8,0.5955984278004421
+53,DBSCAN,min_samples = 5 | eps = 0.6,7,0.6978163849300814
+54,DBSCAN,min_samples = 5 | eps = 0.8,6,0.7071806742099863
+55,DBSCAN,min_samples = 5 | eps = 1.0,3,0.7922557112529398
+56,DBSCAN,min_samples = 5 | eps = 1.2,2,0.891152485925286
+57,DBSCAN,min_samples = 5 | eps = 1.4,2,0.8978052636979884
+58,DBSCAN,min_samples = 5 | eps = 1.6,3,0.8775933191251953
+59,DBSCAN,min_samples = 5 | eps = 1.8,3,0.877094779989652
+60,DBSCAN,min_samples = 5 | eps = 2.0,3,0.8826570947451757
+61,DBSCAN,min_samples = 5 | eps = 2.2,2,0.9119626496723415
+62,DBSCAN,min_samples = 5 | eps = 2.4,2,0.9158706288393951
+63,DBSCAN,min_samples = 5 | eps = 2.6,2,0.9167972917392507
+64,DBSCAN,min_samples = 5 | eps = 2.8,3,0.890559920278913
+65,DBSCAN,min_samples = 5 | eps = 3.0,3,0.8896656782736098
+66,Agglomerative,nclusters = 2,2,0.9061879530072428
+67,Agglomerative,nclusters = 3,3,0.7868819878330079
+68,Agglomerative,nclusters = 4,4,0.788100120317206
+69,Agglomerative,nclusters = 5,5,0.5699610779620988
+70,Agglomerative,nclusters = 6,6,0.5669202825716778
+71,Agglomerative,nclusters = 7,7,0.5688510190784754
